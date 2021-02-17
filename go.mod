@@ -1,4 +1,4 @@
-module github.com/zergon321/translit
+module github.com/zergon321/translit-mod
 
 go 1.15
 
